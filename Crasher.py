@@ -25,7 +25,7 @@ logo = f"""
 {G}Author: Guccifer Shubham
 {R}Credit: TeamDarkSquad
 {Y}Youtube: Shubhu Cyber Studio
-{C}Whatsapp: +91 9485875345
+{C}Whatsapp: +91 9416245319
 """
 os.system('clear')
 def main():
